@@ -1,6 +1,5 @@
 // class Employee implementation
 // contains the definitions and initialization of the functions for class Employee
-#include "pch.h"
 #include "Employee.h"
 using namespace std;
 
