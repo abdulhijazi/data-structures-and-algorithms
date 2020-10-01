@@ -1,0 +1,15 @@
+:Author: Abdul Hijazi, Andrew Bozick, Jasmine Saad
+:Email: abdulhijazi98@gmail.com
+:Date: 02/07/2020
+:Revision: version#1
+:License: Public Domain
+
+= Project: {IoT Window}
+
+== Description
+
+An IoT window that can be opened and closed using Amazon Alexa through Arduino IoT Cloud.
+
+== Demonstration
+
+https://youtu.be/JC2EZHOdPuk
